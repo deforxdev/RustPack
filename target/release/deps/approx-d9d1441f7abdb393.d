@@ -1,0 +1,11 @@
+C:\Users\deforx\Desktop\RustProject\target\release\deps\approx-d9d1441f7abdb393.d: C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs
+
+C:\Users\deforx\Desktop\RustProject\target\release\deps\libapprox-d9d1441f7abdb393.rlib: C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs
+
+C:\Users\deforx\Desktop\RustProject\target\release\deps\libapprox-d9d1441f7abdb393.rmeta: C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs
+
+C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs:
+C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs:
+C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs:
+C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs:
+C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs:

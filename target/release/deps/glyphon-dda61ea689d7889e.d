@@ -1,0 +1,11 @@
+C:\Users\deforx\Desktop\RustProject\target\release\deps\glyphon-dda61ea689d7889e.d: C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\lib.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\error.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\text_atlas.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\text_render.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\shader.wgsl
+
+C:\Users\deforx\Desktop\RustProject\target\release\deps\libglyphon-dda61ea689d7889e.rlib: C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\lib.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\error.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\text_atlas.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\text_render.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\shader.wgsl
+
+C:\Users\deforx\Desktop\RustProject\target\release\deps\libglyphon-dda61ea689d7889e.rmeta: C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\lib.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\error.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\text_atlas.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\text_render.rs C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\shader.wgsl
+
+C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\lib.rs:
+C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\error.rs:
+C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\text_atlas.rs:
+C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\text_render.rs:
+C:\Users\deforx\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyphon-0.5.0\src\shader.wgsl:

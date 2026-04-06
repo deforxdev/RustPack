@@ -1,0 +1,1 @@
+C:\Users\deforx\Desktop\RustProject\target\release\rust-archiver.exe: C:\Users\deforx\Desktop\RustProject\src\archiver.rs C:\Users\deforx\Desktop\RustProject\src\gui.rs C:\Users\deforx\Desktop\RustProject\src\main.rs
